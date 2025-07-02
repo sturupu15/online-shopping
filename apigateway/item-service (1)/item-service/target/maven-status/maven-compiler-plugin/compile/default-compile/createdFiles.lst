@@ -1,0 +1,4 @@
+com\item_service\item_service\Repository\ItemRepository.class
+com\item_service\item_service\ItemServiceApplication.class
+com\item_service\item_service\controller\ItemController.class
+com\item_service\item_service\Entity\Item.class
